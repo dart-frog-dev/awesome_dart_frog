@@ -5,9 +5,9 @@
 
 # Awesome Dart Frog
 
-Welcome! This repo is intended to highlight some awesome Dart Frog resources — articles, videos, open source projects, and more! If you have something to add, please review the [contributing guide](https://github.com/VeryGoodOpenSource/awesome_dart_frog/blob/main/CONTRIBUTING.md) before opening a PR.
+Welcome! This repo is intended to highlight some awesome Dart Frog resources — articles, videos, open source projects, and more! If you have something to add, please review the [contributing guide](https://github.com/dart-frog-dev/awesome_dart_frog/blob/main/CONTRIBUTING.md) before opening a PR.
 
-[Dart Frog](https://github.com/VeryGoodOpenSource/dart_frog) is a fast, minimalistic backend framework for Dart built by [Very Good Ventures](https://verygood.ventures/). It can increase efficiency by allowing you to share code, tooling, and processes across the front and backend.
+[Dart Frog](https://github.com/dart-frog/dart_frog) is a fast, minimalistic backend framework for Dart. It can increase efficiency by allowing you to share code, tooling, and processes across the front and backend.
 
 ## Contents
 
@@ -98,7 +98,7 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 
 - [Hespress](https://verygood.ventures/success-stories/hespress-case-study): A news app for Morocco’s first digital media outlet.
 
-[dart_frog_link_dark]: https://github.com/verygoodopensource/dart_frog#gh-dark-mode-only
-[dart_frog_link_light]: https://github.com/verygoodopensource/dart_frog#gh-light-mode-only
-[logo_black]: https://raw.githubusercontent.com/VeryGoodOpenSource/dart_frog/main/assets/dart_frog_logo_black.png#gh-light-mode-only
-[logo_white]: https://raw.githubusercontent.com/VeryGoodOpenSource/dart_frog/main/assets/dart_frog_logo_white.png#gh-dark-mode-only
+[dart_frog_link_dark]: https://github.com/dart-frog-dev/dart_frog#gh-dark-mode-only
+[dart_frog_link_light]: https://github.com/dart-frog-dev/dart_frog#gh-light-mode-only
+[logo_black]: https://raw.githubusercontent.com/dart-frog-dev/dart_frog/main/assets/dart_frog_logo_black.png#gh-light-mode-only
+[logo_white]: https://raw.githubusercontent.com/dart-frog-dev/dart_frog/main/assets/dart_frog_logo_white.png#gh-dark-mode-only
