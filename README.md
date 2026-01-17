@@ -7,7 +7,7 @@
 
 Welcome! This repo is intended to highlight some awesome Dart Frog resources — articles, videos, open source projects, and more! If you have something to add, please review the [contributing guide](https://github.com/dart-frog-dev/awesome_dart_frog/blob/main/CONTRIBUTING.md) before opening a PR.
 
-[Dart Frog](https://github.com/dart-frog/dart_frog) is a fast, minimalistic backend framework for Dart. It can increase efficiency by allowing you to share code, tooling, and processes across the front and backend.
+[Dart Frog](https://github.com/dart-frog-dev/dart_frog) is a fast, minimalistic backend framework for Dart. It can increase efficiency by allowing you to share code, tooling, and processes across the front and backend.
 
 ## Contents
 
