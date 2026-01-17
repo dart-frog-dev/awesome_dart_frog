@@ -70,6 +70,7 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [Dart Frog — The Frog Prince 🐸, Building Book Library Apis with Dart Frog](https://medium.com/@yousefsalah_85714/dart-frog-the-frog-prince-8dbb647b3e99) by Yousef Salah Kassem
 - [Seamless Full Stack Development using Flutter & Dart Frog](https://verygood.ventures/blog/seamless-full-stack-development-using-flutter-dart-frog) by Tom Arra
   - [Video Version](https://www.youtube.com/watch?v=2DJhzbhW0lQ)
+- [Yandex Eats Clone with Dart Frog & Neon, featuring 8-hour tutorial](https://youtu.be/cQF_CDwFLKQ) by Emil Zulufov
 
 ## Libraries and plugins
 
