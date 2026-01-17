@@ -83,6 +83,7 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [sentry_dart_frog](https://pub.dev/packages/sentry_dart_frog) by [ueman](https://github.com/ueman): Sentry integration for dart_frog. Capture errors and trace performance.
 - [shelf_helmet](https://pub.dev/packages/shelf_helmet) by [jxstxn1](https://github.com/jxstxn1): A port of the NodeJS helmet package to Dart. Helmet helps you secure your Dart Shelf/Frog apps by setting various HTTP headers.
 - [shelf_enforces_ssl](https://pub.dev/packages/shelf_enforces_ssl) by [jxstxn1](https://github.com/jxstxn1): Enforces that users can only make API requests over HTTPS (SSL).
+- [jao](https://pub.dev/packages/jao) by [nexlabstudio](https://github.com/nexlabstudio/jao): A Django-inspired ORM for Dart. Framework-agnostic, type-safe, with a powerful QuerySet API.
 
 ## Projects
 
