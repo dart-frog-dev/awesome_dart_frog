@@ -95,6 +95,7 @@ Welcome! This repo is intended to highlight some awesome Dart Frog resources —
 - [Talk Stream](https://github.com/Yczar/talk-stream-backend): A chat application built using Flutter & Dart Frog, by [Yczar](https://github.com/Yczar).
 - [Rive Live](https://github.com/rive-app/rive_live): An app built by the [Rive team](https://rive.app/) to interact with their team during their [livestreams](https://www.youtube.com/watch?v=1Nilq-avNc4).
 - [Book Library System](https://github.com/YousefSalahKassem/book_library): A book library system built using Dart Frog including Postman collection by [Yousef Salah kassem](https://github.com/YousefSalahKassem).
+- [G1Joshi/Booking-App](https://github.com/G1Joshi/Booking-App): A full-stack booking application built with Flutter (Frontend) and Dart Frog (Backend).
 
 ### Apps
 
